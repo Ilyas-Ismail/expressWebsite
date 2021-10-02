@@ -3,14 +3,14 @@ Student Name: Muhammad Ilyas "Staz" Sameer Ismail
 Student ID: 301168447
 Date: 10/2/2021 (October 2nd, 2021) */
 
-/* Removing the underline from text links */
+/* Removing the underline from text links. */
 
 a {
   color: #00B7FF;
   text-decoration: none;
 }
 
-/* Enlarging an image once hovered over */
+/* Enlarging an image once hovered over. */
 
 img:hover {
   transform:scale(1.3);

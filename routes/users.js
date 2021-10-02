@@ -3,7 +3,7 @@
 // Student ID: 301168447
 // Date: 10/2/2021 (October 2nd, 2021)
 
-// Will be used for Assignment 2
+// Will be used for Assignment 2.
 
 var express = require('express');
 var router = express.Router();
